@@ -1,3 +1,18 @@
 body {
     background-color: rgb(255, 255, 255);
 }
+
+form {
+    padding: 20px;
+}
+
+li {
+    margin: 10px;
+    position: relative;
+    padding-top: 10px;
+    border: black;
+}
+
+.uv-slot {
+    background-color: red;
+}
