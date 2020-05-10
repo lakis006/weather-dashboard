@@ -1,22 +1,5 @@
 # weather-dashboard
 
-GIVEN a weather dashboard with form inputs
-<!-- Below are for cards under the jumbotron/ the aaide bar -->
-WHEN I search for a city
-THEN I am presented with current and future conditions for that city and that city is added to the search history
-<!-- Below are for the jumbotron content -->
-WHEN I view current weather conditions for that city
-THEN I am presented with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, the wind speed, and the UV index
+Welcome to the weather dashboard! In this app you will find that looking up the weather is easy as typing a city, state, country, or continent. Once the area has been typed in, you will be given a 5 day forecast showing the temperature, humidity, and the weather conditions. With the searches that get listed below for your own references, you may click those listed searches and be brought to the same weather stats that you would if it was to be searched!
 
-WHEN I view the UV index
-THEN I am presented with a color that indicates whether the conditions are favorable, moderate, or severe
 
-<!-- Below are for cards under the jumbotron -->
-WHEN I view future weather conditions for that city
-THEN I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, and the humidity
-
-WHEN I click on a city in the search history
-THEN I am again presented with current and future conditions for that city
-
-<!-- WHEN I open the weather dashboard
-THEN I am presented with the last searched city forecast -->
