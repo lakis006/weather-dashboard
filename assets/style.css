@@ -13,6 +13,19 @@ li {
     border: black;
 }
 
+.card {
+    background-color: lightseagreen;
+}
+
+.card-body {
+    background-color: pink;
+    padding: 60px;
+}
+
+.jumbotron {
+    background-color: lightseagreen;
+}
+
 .red {
     background-color: red;
 }
