@@ -28,6 +28,6 @@ You can run this Application and check your own city weather conditions [here](h
 
 ## ScreenShots
 
-![](assets/)
+![](assets/Screenshot Weather.png)
 ![](assets/)
 ![](assets/)
